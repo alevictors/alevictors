@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Alexandre Victor 👋
 
-<!--
-**alevictors/alevictors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Empresário e profissional de Operações, Tecnologia e Transformação Digital.
 
-Here are some ideas to get you started:
+Atualmente curso Tecnologia em Inteligência Artificial pela Gran Faculdade e atuo em projetos relacionados à aplicação de tecnologia e IA em operações empresariais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Áreas de atuação
+
+- Inteligência Artificial
+- Transformação Digital
+- Automação de Processos
+- Integração de Sistemas
+- APIs REST
+- CRM e ERP
+- Telecomunicações
+- Gestão de Projetos
+- Gestão de Operações
+
+## 💼 Experiência
+
+Atuo na gestão e melhoria de processos operacionais e tecnológicos, conectando necessidades de negócio a soluções digitais.
+
+Sou também empresário e proprietário da CSP Telecom, com atuação em telecomunicações, tecnologia, automação e suporte a operações empresariais.
+
+## 🤖 Projetos
+
+Neste GitHub compartilho projetos e estudos relacionados a:
+
+- Inteligência Artificial aplicada a negócios
+- Automação de atendimento
+- Integração de sistemas por API
+- Fluxos automatizados
+- Transformação digital
+
+## 🎓 Formação
+
+**Tecnólogo em Inteligência Artificial**  
+Gran Faculdade  
+2025 – 2027
+
+## 🔗 Contato
+
+LinkedIn: https://www.linkedin.com/in/alexandre-victor-de-souza/
